@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,c,c++,git,java,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,c,c++,git,java,python
 
+### Manually added ###
+# For test
+test/
+
 ### C ###
 # Prerequisites
 *.d
@@ -254,10 +258,10 @@ cython_debug/
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
