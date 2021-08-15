@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "Java"
-    ],
-    "files.associations": {
-        "stdio.h": "c"
-    }
-}
